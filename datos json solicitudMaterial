@@ -1,0 +1,15 @@
+{
+  "id": "SSM",
+  "name": "Alfonso Miguel Reyes",
+  "categorias": [{
+    "idCategoria": "331",
+    "cantidad": 5
+  }, {
+    "idCategoria": "333",
+    "cantidad": 5
+  }, {
+    "idCategoria": "333",
+    "cantidad": 5
+  }
+  ]
+}
